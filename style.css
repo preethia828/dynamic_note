@@ -1,0 +1,20 @@
+li{
+    width: 200px;
+    min-height: 20vh;
+    background-color: rgb(118, 173, 232);
+}
+.container{
+    background-image: linear-gradient(to right ,rgb(202, 146, 202),rgb(156, 156, 242));
+}
+textarea{
+   min-width:70vh;
+    height: 15vh;
+    border: 0px;
+    border-radius: 5px;
+}
+.bx-check{
+    font-size: 26px;
+}
+.bxs-notepad{
+    margin-top: 25px;
+}
